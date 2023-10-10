@@ -1,4 +1,4 @@
-![https://wildrift-gameplay.netlify.app/](./preview.png)
+![Preview](./preview.png)
 
 # Getting Started with Create React App
 
